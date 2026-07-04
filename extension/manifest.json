@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Fake News Detector",
+  "version": "1.0",
+  "description": "Check if selected news text is fake or real",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
